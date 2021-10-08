@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+目前待的公司都沒有使用過 `typescript` 及 `redux`，所以先寫基本的 `CURD` 及模擬 `API`熟悉一下。
+
 ## Available Scripts
 
 In the project directory, you can run:
